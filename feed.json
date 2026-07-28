@@ -13,15 +13,17 @@
             "id": "https://finn-chapman.github.io/this-is-a-test.html",
             "url": "https://finn-chapman.github.io/this-is-a-test.html",
             "title": "This is a test!",
-            "summary": "Hello world...",
-            "content_html": "<p>Hello world...</p>",
+            "summary": "Hello world... G D FF GIGIGIGMMMMMYUMYUMYUM",
+            "content_html": "<p>Hello world...</p>\n<p>G</p>\n<p> </p>\n<p>D</p>\n<p>FF</p>\n<p>GIGIGIGMMMMMYUMYUMYUM</p>",
+            "image": "https://finn-chapman.github.io/media/posts/1/Arnold_Boecklin-fiedelnder_Tod.jpg",
             "author": {
                 "name": "Finn Chapman"
             },
             "tags": [
+                   "INterviewas"
             ],
             "date_published": "2026-07-28T02:56:04+01:00",
-            "date_modified": "2026-07-28T02:56:04+01:00"
+            "date_modified": "2026-07-28T04:27:57+01:00"
         }
     ]
 }

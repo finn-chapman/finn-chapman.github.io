@@ -3,7 +3,7 @@
     <title>Finn Chapman</title>
     <link href="https://finn-chapman.github.io/feed.xml" rel="self" />
     <link href="https://finn-chapman.github.io" />
-    <updated>2026-07-28T02:56:04+01:00</updated>
+    <updated>2026-07-28T04:27:57+01:00</updated>
     <author>
         <name>Finn Chapman</name>
     </author>
@@ -16,16 +16,25 @@
         </author>
         <link href="https://finn-chapman.github.io/this-is-a-test.html"/>
         <id>https://finn-chapman.github.io/this-is-a-test.html</id>
+        <media:content url="https://finn-chapman.github.io/media/posts/1/Arnold_Boecklin-fiedelnder_Tod.jpg" medium="image" />
+            <category term="INterviewas"/>
 
         <updated>2026-07-28T02:56:04+01:00</updated>
             <summary type="html">
                 <![CDATA[
-                    Hello world...
+                        <img src="https://finn-chapman.github.io/media/posts/1/Arnold_Boecklin-fiedelnder_Tod.jpg" alt="" />
+                    Hello world... G D FF GIGIGIGMMMMMYUMYUMYUM
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
+                    <p><img src="https://finn-chapman.github.io/media/posts/1/Arnold_Boecklin-fiedelnder_Tod.jpg" class="type:primaryImage" alt="" /></p>
                 <p>Hello world...</p>
+<p>G</p>
+<p> </p>
+<p>D</p>
+<p>FF</p>
+<p>GIGIGIGMMMMMYUMYUMYUM</p>
             ]]>
         </content>
     </entry>
