@@ -3,10 +3,30 @@
     <title>Finn Chapman</title>
     <link href="https://finn-chapman.github.io/feed.xml" rel="self" />
     <link href="https://finn-chapman.github.io" />
-    <updated>1970-01-01T01:00:00+01:00</updated>
+    <updated>2026-07-28T02:56:04+01:00</updated>
     <author>
         <name>Finn Chapman</name>
     </author>
     <id>https://finn-chapman.github.io</id>
 
+    <entry>
+        <title>This is a test!</title>
+        <author>
+            <name>Finn Chapman</name>
+        </author>
+        <link href="https://finn-chapman.github.io/this-is-a-test.html"/>
+        <id>https://finn-chapman.github.io/this-is-a-test.html</id>
+
+        <updated>2026-07-28T02:56:04+01:00</updated>
+            <summary type="html">
+                <![CDATA[
+                    Hello world...
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Hello world...</p>
+            ]]>
+        </content>
+    </entry>
 </feed>
