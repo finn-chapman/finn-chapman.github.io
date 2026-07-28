@@ -3,7 +3,7 @@
     <title>Finn Chapman</title>
     <link href="https://finn-chapman.github.io/feed.xml" rel="self" />
     <link href="https://finn-chapman.github.io" />
-    <updated>2026-07-29T00:43:44+01:00</updated>
+    <updated>2026-07-29T00:54:53+01:00</updated>
     <author>
         <name>Finn Chapman</name>
     </author>
@@ -40,15 +40,19 @@
         </author>
         <link href="https://finn-chapman.github.io/benicio/"/>
         <id>https://finn-chapman.github.io/benicio/</id>
+        <media:content url="https://finn-chapman.github.io/media/posts/14/gloria-cover-crop.jpg" medium="image" />
+            <category term="Interviews"/>
 
         <updated>2026-07-29T00:15:49+01:00</updated>
             <summary type="html">
                 <![CDATA[
+                        <img src="https://finn-chapman.github.io/media/posts/14/gloria-cover-crop.jpg" alt="" />
                     yeehaw
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
+                    <p><img src="https://finn-chapman.github.io/media/posts/14/gloria-cover-crop.jpg" class="type:primaryImage" alt="" /></p>
                 <p>yeehaw</p>
             ]]>
         </content>
@@ -156,25 +160,25 @@
         </content>
     </entry>
     <entry>
-        <title>Virbrevis Teest</title>
+        <title>Siranush</title>
         <author>
             <name>Finn Chapman</name>
         </author>
         <link href="https://finn-chapman.github.io/another-test/"/>
         <id>https://finn-chapman.github.io/another-test/</id>
-        <media:content url="https://finn-chapman.github.io/media/posts/8/virbrevis-cover-crop.jpg" medium="image" />
+        <media:content url="https://finn-chapman.github.io/media/posts/8/siranush-cover-crop.jpg" medium="image" />
             <category term="Interviews"/>
 
         <updated>2026-07-28T17:04:19+01:00</updated>
             <summary type="html">
                 <![CDATA[
-                        <img src="https://finn-chapman.github.io/media/posts/8/virbrevis-cover-crop.jpg" alt="" />
+                        <img src="https://finn-chapman.github.io/media/posts/8/siranush-cover-crop.jpg" alt="" />
                     Can you tell me a bit in your own words about where&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://finn-chapman.github.io/media/posts/8/virbrevis-cover-crop.jpg" class="type:primaryImage" alt="" /></p>
+                    <p><img src="https://finn-chapman.github.io/media/posts/8/siranush-cover-crop.jpg" class="type:primaryImage" alt="" /></p>
                 <p><i><span style="font-weight: 400;">Can you tell me a bit in your own words about where you're from and where you grew up?</span></i></p>
 <p><span style="font-weight: 400;"> </span></p>
 <p><span style="font-weight: 400;"> </span><span style="font-weight: 400;">I was born in Belgrade, I grew up in the suburbs of Belgrade. I'm deeply attached, in terms of identity, to the city, to its history and culture, much like my parents. I would describe myself as very much rooted in Belgrade, my family having changed locations numerous times, within the city and also outside in some cases, but we've always had a particular attachment to this city above all else, geographically speaking.</span></p>
@@ -241,25 +245,25 @@
         </content>
     </entry>
     <entry>
-        <title>Siranush</title>
+        <title>Virbrevis</title>
         <author>
             <name>Finn Chapman</name>
         </author>
         <link href="https://finn-chapman.github.io/this-is-a-test/"/>
         <id>https://finn-chapman.github.io/this-is-a-test/</id>
-        <media:content url="https://finn-chapman.github.io/media/posts/1/siranush-cover-crop-2.jpg" medium="image" />
+        <media:content url="https://finn-chapman.github.io/media/posts/1/virbrevis-cover-crop.jpg" medium="image" />
             <category term="Interviews"/>
 
         <updated>2026-07-28T02:56:04+01:00</updated>
             <summary type="html">
                 <![CDATA[
-                        <img src="https://finn-chapman.github.io/media/posts/1/siranush-cover-crop-2.jpg" alt="" />
+                        <img src="https://finn-chapman.github.io/media/posts/1/virbrevis-cover-crop.jpg" alt="" />
                     Can you tell me a bit in your own words about where&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://finn-chapman.github.io/media/posts/1/siranush-cover-crop-2.jpg" class="type:primaryImage" alt="" /></p>
+                    <p><img src="https://finn-chapman.github.io/media/posts/1/virbrevis-cover-crop.jpg" class="type:primaryImage" alt="" /></p>
                 <p><i><span style="font-weight: 400;">Can you tell me a bit in your own words about where you're from and where you grew up?</span></i></p>
 <p><span style="font-weight: 400;"> </span></p>
 <p><span style="font-weight: 400;"> </span><span style="font-weight: 400;">I was born in Belgrade, I grew up in the suburbs of Belgrade. I'm deeply attached, in terms of identity, to the city, to its history and culture, much like my parents. I would describe myself as very much rooted in Belgrade, my family having changed locations numerous times, within the city and also outside in some cases, but we've always had a particular attachment to this city above all else, geographically speaking.</span></p>
