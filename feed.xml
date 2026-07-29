@@ -3,7 +3,7 @@
     <title>Finn Chapman</title>
     <link href="https://finn-chapman.github.io/feed.xml" rel="self" />
     <link href="https://finn-chapman.github.io" />
-    <updated>2026-07-29T00:54:53+01:00</updated>
+    <updated>2026-07-29T01:03:03+01:00</updated>
     <author>
         <name>Finn Chapman</name>
     </author>
@@ -164,8 +164,8 @@
         <author>
             <name>Finn Chapman</name>
         </author>
-        <link href="https://finn-chapman.github.io/another-test/"/>
-        <id>https://finn-chapman.github.io/another-test/</id>
+        <link href="https://finn-chapman.github.io/siranush/"/>
+        <id>https://finn-chapman.github.io/siranush/</id>
         <media:content url="https://finn-chapman.github.io/media/posts/8/siranush-cover-crop.jpg" medium="image" />
             <category term="Interviews"/>
 
@@ -249,8 +249,8 @@
         <author>
             <name>Finn Chapman</name>
         </author>
-        <link href="https://finn-chapman.github.io/this-is-a-test/"/>
-        <id>https://finn-chapman.github.io/this-is-a-test/</id>
+        <link href="https://finn-chapman.github.io/virbrevis/"/>
+        <id>https://finn-chapman.github.io/virbrevis/</id>
         <media:content url="https://finn-chapman.github.io/media/posts/1/virbrevis-cover-crop.jpg" medium="image" />
             <category term="Interviews"/>
 
