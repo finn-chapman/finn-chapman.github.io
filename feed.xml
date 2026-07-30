@@ -3,7 +3,7 @@
     <title>Finn Chapman</title>
     <link href="https://finn-chapman.github.io/feed.xml" rel="self" />
     <link href="https://finn-chapman.github.io" />
-    <updated>2026-07-30T14:35:32+01:00</updated>
+    <updated>2026-07-30T21:26:55+01:00</updated>
     <author>
         <name>Finn Chapman</name>
     </author>
@@ -507,12 +507,12 @@
         </content>
     </entry>
     <entry>
-        <title>Photography Test Post</title>
+        <title>Photos I&#x27;ve liked enough to make my wallpaper</title>
         <author>
             <name>Finn Chapman</name>
         </author>
-        <link href="https://finn-chapman.github.io/photography-test/"/>
-        <id>https://finn-chapman.github.io/photography-test/</id>
+        <link href="https://finn-chapman.github.io/wallpaper-photos/"/>
+        <id>https://finn-chapman.github.io/wallpaper-photos/</id>
         <media:content url="https://finn-chapman.github.io/media/posts/9/IMG_2814.JPG" medium="image" />
             <category term="Photography"/>
 
@@ -520,30 +520,66 @@
             <summary type="html">
                 <![CDATA[
                         <img src="https://finn-chapman.github.io/media/posts/9/IMG_2814.JPG" alt="" />
-                    Dublin Yerevan Brighton London Sussex Prague
+                    Botanical garden, Yerevan Seagull, Dublin Samuel Beckett Bridge, Dublin Armenian Genocide Memorial,&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                     <p><img src="https://finn-chapman.github.io/media/posts/9/IMG_2814.JPG" class="type:primaryImage" alt="" /></p>
                 <div class="gallery-wrapper"><div class="gallery" data-is-empty="false" data-translation="Add images" data-columns="2">
-<figure class="gallery__item"><a href="https://finn-chapman.github.io/media/posts/9/gallery/IMG_1683.JPG" data-size="6000x3577"><img loading="lazy" src="https://finn-chapman.github.io/media/posts/9/gallery/IMG_1683-thumbnail.JPG" alt="" width="768" height="458"></a>
-<figcaption>Dublin</figcaption>
+<figure class="gallery__item"><a href="https://finn-chapman.github.io/media/posts/9/gallery/IMG_1285.JPG" data-size="5623x3515"><img loading="lazy" src="https://finn-chapman.github.io/media/posts/9/gallery/IMG_1285-thumbnail.JPG" alt="" width="768" height="480"></a>
+<figcaption>Botanical garden, Yerevan</figcaption>
 </figure>
-<figure class="gallery__item"><a href="https://finn-chapman.github.io/media/posts/9/gallery/IMG_1779.JPG" data-size="6000x3760"><img loading="lazy" src="https://finn-chapman.github.io/media/posts/9/gallery/IMG_1779-thumbnail.JPG" alt="" width="768" height="481"></a>
-<figcaption>Yerevan</figcaption>
+<figure class="gallery__item"><a href="https://finn-chapman.github.io/media/posts/9/gallery/IMG_1683-2.JPG" data-size="6000x3577"><img loading="lazy" src="https://finn-chapman.github.io/media/posts/9/gallery/IMG_1683-2-thumbnail.JPG" alt="" width="768" height="458"></a>
+<figcaption>Seagull, Dublin</figcaption>
 </figure>
-<figure class="gallery__item"><a href="https://finn-chapman.github.io/media/posts/9/gallery/IMG_2814.JPG" data-size="6000x3758"><img loading="lazy" src="https://finn-chapman.github.io/media/posts/9/gallery/IMG_2814-thumbnail.JPG" alt="" width="768" height="481"></a>
-<figcaption>Brighton</figcaption>
+<figure class="gallery__item"><a href="https://finn-chapman.github.io/media/posts/9/gallery/IMG_1696.JPG" data-size="6000x3764"><img loading="lazy" src="https://finn-chapman.github.io/media/posts/9/gallery/IMG_1696-thumbnail.JPG" alt="" width="768" height="482"></a>
+<figcaption>Samuel Beckett Bridge, Dublin</figcaption>
 </figure>
-<figure class="gallery__item"><a href="https://finn-chapman.github.io/media/posts/9/gallery/IMG_3439.JPG" data-size="6000x3751"><img loading="lazy" src="https://finn-chapman.github.io/media/posts/9/gallery/IMG_3439-thumbnail.JPG" alt="" width="768" height="480"></a>
-<figcaption>London</figcaption>
+<figure class="gallery__item"><a href="https://finn-chapman.github.io/media/posts/9/gallery/IMG_1779-2.JPG" data-size="6000x3760"><img loading="lazy" src="https://finn-chapman.github.io/media/posts/9/gallery/IMG_1779-2-thumbnail.JPG" alt="" width="768" height="481"></a>
+<figcaption>Armenian Genocide Memorial, Yerevan</figcaption>
 </figure>
-<figure class="gallery__item"><a href="https://finn-chapman.github.io/media/posts/9/gallery/IMG_4019.JPG" data-size="6000x3755"><img loading="lazy" src="https://finn-chapman.github.io/media/posts/9/gallery/IMG_4019-thumbnail.JPG" alt="" width="768" height="481"></a>
-<figcaption>Sussex</figcaption>
+<figure class="gallery__item"><a href="https://finn-chapman.github.io/media/posts/9/gallery/IMG_2341.JPG" data-size="6000x3752"><img loading="lazy" src="https://finn-chapman.github.io/media/posts/9/gallery/IMG_2341-thumbnail.JPG" alt="" width="768" height="480"></a>
+<figcaption>Galleria Vittorio Emanuele II, Milan</figcaption>
 </figure>
-<figure class="gallery__item"><a href="https://finn-chapman.github.io/media/posts/9/gallery/IMG_8478.JPG" data-size="6000x3751"><img loading="lazy" src="https://finn-chapman.github.io/media/posts/9/gallery/IMG_8478-thumbnail.JPG" alt="" width="768" height="480"></a>
-<figcaption>Prague</figcaption>
+<figure class="gallery__item"><a href="https://finn-chapman.github.io/media/posts/9/gallery/IMG_2814-2.JPG" data-size="6000x3758"><img loading="lazy" src="https://finn-chapman.github.io/media/posts/9/gallery/IMG_2814-2-thumbnail.JPG" alt="" width="768" height="481"></a>
+<figcaption>Long exposure of a street, Brighton</figcaption>
+</figure>
+<figure class="gallery__item"><a href="https://finn-chapman.github.io/media/posts/9/gallery/IMG_3439-2.JPG" data-size="6000x3751"><img loading="lazy" src="https://finn-chapman.github.io/media/posts/9/gallery/IMG_3439-2-thumbnail.JPG" alt="" width="768" height="480"></a>
+<figcaption>Millenium Bridge, London</figcaption>
+</figure>
+<figure class="gallery__item"><a href="https://finn-chapman.github.io/media/posts/9/gallery/IMG_3542.JPG" data-size="6000x3751"><img loading="lazy" src="https://finn-chapman.github.io/media/posts/9/gallery/IMG_3542-thumbnail.JPG" alt="" width="768" height="480"></a>
+<figcaption>The Barbican, London</figcaption>
+</figure>
+<figure class="gallery__item"><a href="https://finn-chapman.github.io/media/posts/9/gallery/IMG_3549.JPG" data-size="6000x3755"><img loading="lazy" src="https://finn-chapman.github.io/media/posts/9/gallery/IMG_3549-thumbnail.JPG" alt="" width="768" height="481"></a>
+<figcaption>The Barbican, London</figcaption>
+</figure>
+<figure class="gallery__item"><a href="https://finn-chapman.github.io/media/posts/9/gallery/IMG_3918.JPG" data-size="6000x3749"><img loading="lazy" src="https://finn-chapman.github.io/media/posts/9/gallery/IMG_3918-thumbnail.JPG" alt="" width="768" height="480"></a>
+<figcaption>Forest scene, Sussex</figcaption>
+</figure>
+<figure class="gallery__item"><a href="https://finn-chapman.github.io/media/posts/9/gallery/IMG_4019-2.JPG" data-size="6000x3755"><img loading="lazy" src="https://finn-chapman.github.io/media/posts/9/gallery/IMG_4019-2-thumbnail.JPG" alt="" width="768" height="481"></a>
+<figcaption>Forest scene, Sussex</figcaption>
+</figure>
+<figure class="gallery__item"><a href="https://finn-chapman.github.io/media/posts/9/gallery/IMG_4425.JPG" data-size="6000x3749"><img loading="lazy" src="https://finn-chapman.github.io/media/posts/9/gallery/IMG_4425-thumbnail.JPG" alt="" width="768" height="480"></a>
+<figcaption>Secondhand shop, Brighton</figcaption>
+</figure>
+<figure class="gallery__item"><a href="https://finn-chapman.github.io/media/posts/9/gallery/IMG_5857.JPG" data-size="6000x3755"><img loading="lazy" src="https://finn-chapman.github.io/media/posts/9/gallery/IMG_5857-thumbnail.JPG" alt="" width="768" height="481"></a>
+<figcaption>Linnahall, Tallinn</figcaption>
+</figure>
+<figure class="gallery__item"><a href="https://finn-chapman.github.io/media/posts/9/gallery/IMG_6619.JPG" data-size="6000x3751"><img loading="lazy" src="https://finn-chapman.github.io/media/posts/9/gallery/IMG_6619-thumbnail.JPG" alt="" width="768" height="480"></a>
+<figcaption>Strahov Tunnel Tower, Prague</figcaption>
+</figure>
+<figure class="gallery__item"><a href="https://finn-chapman.github.io/media/posts/9/gallery/IMG_6627.JPG" data-size="6000x3749"><img loading="lazy" src="https://finn-chapman.github.io/media/posts/9/gallery/IMG_6627-thumbnail.JPG" alt="" width="768" height="480"></a>
+<figcaption>Strahov Tunnel Tower, Prague</figcaption>
+</figure>
+<figure class="gallery__item"><a href="https://finn-chapman.github.io/media/posts/9/gallery/IMG_6824.JPG" data-size="6000x3750"><img loading="lazy" src="https://finn-chapman.github.io/media/posts/9/gallery/IMG_6824-thumbnail.JPG" alt="" width="768" height="480"></a>
+<figcaption>Divoká Šárka in Autumn, Prague</figcaption>
+</figure>
+<figure class="gallery__item"><a href="https://finn-chapman.github.io/media/posts/9/gallery/IMG_8324.JPG" data-size="6000x3749"><img loading="lazy" src="https://finn-chapman.github.io/media/posts/9/gallery/IMG_8324-thumbnail.JPG" alt="" width="768" height="480"></a>
+<figcaption>Divoká Šárka in Summer, Prague</figcaption>
+</figure>
+<figure class="gallery__item"><a href="https://finn-chapman.github.io/media/posts/9/gallery/IMG_8478-2.JPG" data-size="6000x3751"><img loading="lazy" src="https://finn-chapman.github.io/media/posts/9/gallery/IMG_8478-2-thumbnail.JPG" alt="" width="768" height="480"></a>
+<figcaption>Metro station, Prague</figcaption>
 </figure>
 </div></div>
             ]]>
