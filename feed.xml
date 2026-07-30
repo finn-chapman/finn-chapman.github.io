@@ -3,7 +3,7 @@
     <title>Finn Chapman</title>
     <link href="https://finn-chapman.github.io/feed.xml" rel="self" />
     <link href="https://finn-chapman.github.io" />
-    <updated>2026-07-29T18:23:49+01:00</updated>
+    <updated>2026-07-30T02:08:39+01:00</updated>
     <author>
         <name>Finn Chapman</name>
     </author>
@@ -106,55 +106,68 @@
         </content>
     </entry>
     <entry>
-        <title>writing test</title>
+        <title>Writing Test Post</title>
         <author>
             <name>Finn Chapman</name>
         </author>
         <link href="https://finn-chapman.github.io/writing-test/"/>
         <id>https://finn-chapman.github.io/writing-test/</id>
+        <media:content url="https://finn-chapman.github.io/media/posts/10/IMG_4425.JPG" medium="image" />
             <category term="Writing"/>
 
         <updated>2026-07-28T17:12:22+01:00</updated>
             <summary type="html">
                 <![CDATA[
-                    Today while astral projecting I summoned allah to try and weaken him&hellip;
+                        <img src="https://finn-chapman.github.io/media/posts/10/IMG_4425.JPG" alt="" />
+                    This is a writing test post. The lazy brown jump foxed over&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <p><strong>Today while astral projecting I summoned allah to try and weaken him so our hexing spells would work better.<br><br>He is so fucking powerful. I'm not at a power level to do this alone. I barely escaped with my life and I'm spiritually injured to a great amount, but I think I'll make it.<br><br>I can't imagine what he would do to a new, unsuspecting witch. I'm scared that I will have to face him again soon if I ever want to continue astral projecting. I'm currently burning healing incense and drawing spiritual energy from my crystals to try and heal as quickly as possible.<br><br>Please be safe everyone. Allah is much stronger than I first imagined and we will have to do this together if we want to slay a god.</strong></p>
+                    <p><img src="https://finn-chapman.github.io/media/posts/10/IMG_4425.JPG" class="type:primaryImage" alt="" /></p>
+                <p>This is a writing test post. The lazy brown jump foxed over the quick dog.</p>
             ]]>
         </content>
     </entry>
     <entry>
-        <title>photography test</title>
+        <title>Photography Test Post</title>
         <author>
             <name>Finn Chapman</name>
         </author>
         <link href="https://finn-chapman.github.io/photography-test/"/>
         <id>https://finn-chapman.github.io/photography-test/</id>
+        <media:content url="https://finn-chapman.github.io/media/posts/9/IMG_2814.JPG" medium="image" />
             <category term="Photography"/>
 
         <updated>2026-07-28T17:07:07+01:00</updated>
             <summary type="html">
                 <![CDATA[
-                    caption1 caption 2! Cpaiton three!!
+                        <img src="https://finn-chapman.github.io/media/posts/9/IMG_2814.JPG" alt="" />
+                    Dublin Yerevan Brighton London Sussex Prague
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <div class="gallery-wrapper"><div class="gallery" data-is-empty="false" data-translation="Add images" data-columns="3">
-<figure class="gallery__item"><a href="https://finn-chapman.github.io/media/posts/9/gallery/correction-4.png" data-size="1105x213"><img loading="lazy" src="https://finn-chapman.github.io/media/posts/9/gallery/correction-4-thumbnail.png" alt="" width="720" height="139"></a>
-<figcaption>caption1</figcaption>
+                    <p><img src="https://finn-chapman.github.io/media/posts/9/IMG_2814.JPG" class="type:primaryImage" alt="" /></p>
+                <div class="gallery-wrapper"><div class="gallery" data-is-empty="false" data-translation="Add images" data-columns="2">
+<figure class="gallery__item"><a href="https://finn-chapman.github.io/media/posts/9/gallery/IMG_1683.JPG" data-size="6000x3577"><img loading="lazy" src="https://finn-chapman.github.io/media/posts/9/gallery/IMG_1683-thumbnail.JPG" alt="" width="768" height="458"></a>
+<figcaption>Dublin</figcaption>
 </figure>
-<figure class="gallery__item"><a href="https://finn-chapman.github.io/media/posts/9/gallery/correction-5.png" data-size="990x122"><img loading="lazy" src="https://finn-chapman.github.io/media/posts/9/gallery/correction-5-thumbnail.png" alt="" width="720" height="89"></a>
-<figcaption>caption 2!</figcaption>
+<figure class="gallery__item"><a href="https://finn-chapman.github.io/media/posts/9/gallery/IMG_1779.JPG" data-size="6000x3760"><img loading="lazy" src="https://finn-chapman.github.io/media/posts/9/gallery/IMG_1779-thumbnail.JPG" alt="" width="768" height="481"></a>
+<figcaption>Yerevan</figcaption>
 </figure>
-<figure class="gallery__item"><a href="https://finn-chapman.github.io/media/posts/9/gallery/correction-6.png" data-size="458x237"><img loading="lazy" src="https://finn-chapman.github.io/media/posts/9/gallery/correction-6-thumbnail.png" alt="" width="458" height="237"></a>
-<figcaption>Cpaiton three!!</figcaption>
+<figure class="gallery__item"><a href="https://finn-chapman.github.io/media/posts/9/gallery/IMG_2814.JPG" data-size="6000x3758"><img loading="lazy" src="https://finn-chapman.github.io/media/posts/9/gallery/IMG_2814-thumbnail.JPG" alt="" width="768" height="481"></a>
+<figcaption>Brighton</figcaption>
 </figure>
-<figure class="gallery__item"><a href="https://finn-chapman.github.io/media/posts/9/gallery/correction-7.png" data-size="920x277"><img loading="lazy" src="https://finn-chapman.github.io/media/posts/9/gallery/correction-7-thumbnail.png" alt="" width="720" height="217"></a></figure>
-<figure class="gallery__item"><a href="https://finn-chapman.github.io/media/posts/9/gallery/correction-8.png" data-size="1548x97"><img loading="lazy" src="https://finn-chapman.github.io/media/posts/9/gallery/correction-8-thumbnail.png" alt="" width="720" height="45"></a></figure>
+<figure class="gallery__item"><a href="https://finn-chapman.github.io/media/posts/9/gallery/IMG_3439.JPG" data-size="6000x3751"><img loading="lazy" src="https://finn-chapman.github.io/media/posts/9/gallery/IMG_3439-thumbnail.JPG" alt="" width="768" height="480"></a>
+<figcaption>London</figcaption>
+</figure>
+<figure class="gallery__item"><a href="https://finn-chapman.github.io/media/posts/9/gallery/IMG_4019.JPG" data-size="6000x3755"><img loading="lazy" src="https://finn-chapman.github.io/media/posts/9/gallery/IMG_4019-thumbnail.JPG" alt="" width="768" height="481"></a>
+<figcaption>Sussex</figcaption>
+</figure>
+<figure class="gallery__item"><a href="https://finn-chapman.github.io/media/posts/9/gallery/IMG_8478.JPG" data-size="6000x3751"><img loading="lazy" src="https://finn-chapman.github.io/media/posts/9/gallery/IMG_8478-thumbnail.JPG" alt="" width="768" height="480"></a>
+<figcaption>Prague</figcaption>
+</figure>
 </div></div>
             ]]>
         </content>
