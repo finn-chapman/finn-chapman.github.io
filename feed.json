@@ -11,6 +11,19 @@
     },
     "items": [
         {
+            "id": "https://finn-chapman.github.io/xerox-art/",
+            "url": "https://finn-chapman.github.io/xerox-art/",
+            "title": "Xerox Art",
+            "content_html": "<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://finn-chapman.github.io/media/posts/16/scan-14.png\" alt=\"\" width=\"4212\" height=\"3045\" sizes=\"(max-width: 1024px) 100vw, 1024px\" srcset=\"https://finn-chapman.github.io/media/posts/16/responsive/scan-14-xs.png 300w ,https://finn-chapman.github.io/media/posts/16/responsive/scan-14-sm.png 480w ,https://finn-chapman.github.io/media/posts/16/responsive/scan-14-md.png 768w ,https://finn-chapman.github.io/media/posts/16/responsive/scan-14-lg.png 1024w\"></figure>\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://finn-chapman.github.io/media/posts/16/scan-18-2.png\" alt=\"\" width=\"3528\" height=\"2241\" sizes=\"(max-width: 1024px) 100vw, 1024px\" srcset=\"https://finn-chapman.github.io/media/posts/16/responsive/scan-18-2-xs.png 300w ,https://finn-chapman.github.io/media/posts/16/responsive/scan-18-2-sm.png 480w ,https://finn-chapman.github.io/media/posts/16/responsive/scan-18-2-md.png 768w ,https://finn-chapman.github.io/media/posts/16/responsive/scan-18-2-lg.png 1024w\"></figure>\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://finn-chapman.github.io/media/posts/16/scan-21.png\" alt=\"\" width=\"4364\" height=\"5510\" sizes=\"(max-width: 1024px) 100vw, 1024px\" srcset=\"https://finn-chapman.github.io/media/posts/16/responsive/scan-21-xs.png 300w ,https://finn-chapman.github.io/media/posts/16/responsive/scan-21-sm.png 480w ,https://finn-chapman.github.io/media/posts/16/responsive/scan-21-md.png 768w ,https://finn-chapman.github.io/media/posts/16/responsive/scan-21-lg.png 1024w\"></figure>\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://finn-chapman.github.io/media/posts/16/scan-23.png\" alt=\"\" width=\"2652\" height=\"3697\" sizes=\"(max-width: 1024px) 100vw, 1024px\" srcset=\"https://finn-chapman.github.io/media/posts/16/responsive/scan-23-xs.png 300w ,https://finn-chapman.github.io/media/posts/16/responsive/scan-23-sm.png 480w ,https://finn-chapman.github.io/media/posts/16/responsive/scan-23-md.png 768w ,https://finn-chapman.github.io/media/posts/16/responsive/scan-23-lg.png 1024w\"></figure>",
+            "author": {
+                "name": "Finn Chapman"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-08-31T00:57:34+02:00",
+            "date_modified": "2026-08-31T00:57:34+02:00"
+        },
+        {
             "id": "https://finn-chapman.github.io/rania/",
             "url": "https://finn-chapman.github.io/rania/",
             "title": "Rania",
@@ -23,8 +36,8 @@
             "tags": [
                    "Interviews"
             ],
-            "date_published": "2026-07-29T00:16:23+01:00",
-            "date_modified": "2026-07-30T02:36:32+01:00"
+            "date_published": "2026-07-29T01:16:23+02:00",
+            "date_modified": "2026-07-30T03:36:32+02:00"
         },
         {
             "id": "https://finn-chapman.github.io/benicio/",
@@ -39,8 +52,8 @@
             "tags": [
                    "Interviews"
             ],
-            "date_published": "2026-07-29T00:15:49+01:00",
-            "date_modified": "2026-08-04T05:56:58+01:00"
+            "date_published": "2026-07-29T01:15:49+02:00",
+            "date_modified": "2026-08-04T06:56:58+02:00"
         },
         {
             "id": "https://finn-chapman.github.io/gloria/",
@@ -55,8 +68,8 @@
             "tags": [
                    "Interviews"
             ],
-            "date_published": "2026-07-29T00:15:12+01:00",
-            "date_modified": "2026-07-30T03:53:39+01:00"
+            "date_published": "2026-07-29T01:15:12+02:00",
+            "date_modified": "2026-07-30T04:53:39+02:00"
         },
         {
             "id": "https://finn-chapman.github.io/paula/",
@@ -71,8 +84,8 @@
             "tags": [
                    "Interviews"
             ],
-            "date_published": "2026-07-29T00:14:03+01:00",
-            "date_modified": "2026-07-30T04:10:55+01:00"
+            "date_published": "2026-07-29T01:14:03+02:00",
+            "date_modified": "2026-07-30T05:10:55+02:00"
         },
         {
             "id": "https://finn-chapman.github.io/writing-test/",
@@ -87,8 +100,8 @@
             "tags": [
                    "Writing"
             ],
-            "date_published": "2026-07-28T17:12:22+01:00",
-            "date_modified": "2026-07-30T02:08:39+01:00"
+            "date_published": "2026-07-28T18:12:22+02:00",
+            "date_modified": "2026-07-30T03:08:39+02:00"
         },
         {
             "id": "https://finn-chapman.github.io/wallpaper-photos/",
@@ -103,8 +116,8 @@
             "tags": [
                    "Photography"
             ],
-            "date_published": "2026-07-28T17:07:07+01:00",
-            "date_modified": "2026-07-30T21:26:55+01:00"
+            "date_published": "2026-07-28T18:07:07+02:00",
+            "date_modified": "2026-07-30T22:26:55+02:00"
         },
         {
             "id": "https://finn-chapman.github.io/siranush/",
@@ -119,8 +132,8 @@
             "tags": [
                    "Interviews"
             ],
-            "date_published": "2026-07-28T17:04:19+01:00",
-            "date_modified": "2026-07-30T14:35:32+01:00"
+            "date_published": "2026-07-28T18:04:19+02:00",
+            "date_modified": "2026-07-30T15:35:32+02:00"
         },
         {
             "id": "https://finn-chapman.github.io/virbrevis/",
@@ -135,8 +148,8 @@
             "tags": [
                    "Interviews"
             ],
-            "date_published": "2026-07-28T02:56:04+01:00",
-            "date_modified": "2026-07-30T03:40:26+01:00"
+            "date_published": "2026-07-28T03:56:04+02:00",
+            "date_modified": "2026-07-30T04:40:26+02:00"
         }
     ]
 }
