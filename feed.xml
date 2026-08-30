@@ -3,7 +3,7 @@
     <title>Finn Chapman</title>
     <link href="https://finn-chapman.github.io/feed.xml" rel="self" />
     <link href="https://finn-chapman.github.io" />
-    <updated>2026-08-31T01:10:53+02:00</updated>
+    <updated>2026-08-31T01:16:46+02:00</updated>
     <author>
         <name>Finn Chapman</name>
     </author>
@@ -16,14 +16,17 @@
         </author>
         <link href="https://finn-chapman.github.io/xerox-art/"/>
         <id>https://finn-chapman.github.io/xerox-art/</id>
-        <media:content url="https://finn-chapman.github.io/media/posts/16/scan-14-2.png" medium="image" />
+        <media:content url="https://finn-chapman.github.io/media/posts/16/45-years.png" medium="image" />
 
         <updated>2026-08-31T00:57:34+02:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://finn-chapman.github.io/media/posts/16/scan-14-2.png" class="type:primaryImage" alt="" /></p>
-                <figure class="post__image"><img loading="lazy"  src="https://finn-chapman.github.io/media/posts/16/scan-18.png" alt="" width="3528" height="2241" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://finn-chapman.github.io/media/posts/16/responsive/scan-18-xs.png 300w ,https://finn-chapman.github.io/media/posts/16/responsive/scan-18-sm.png 480w ,https://finn-chapman.github.io/media/posts/16/responsive/scan-18-md.png 768w ,https://finn-chapman.github.io/media/posts/16/responsive/scan-18-lg.png 1024w"></figure>
+                    <p><img src="https://finn-chapman.github.io/media/posts/16/45-years.png" class="type:primaryImage" alt="" /></p>
+                <div class="gallery-wrapper"><div class="gallery" data-is-empty="false" data-translation="Add images" data-columns="2">
+<figure class="gallery__item"><a href="https://finn-chapman.github.io/media/posts/16/gallery/scan-14.png" data-size="4212x3045"><img loading="lazy" src="https://finn-chapman.github.io/media/posts/16/gallery/scan-14-thumbnail.png" alt="" width="768" height="555"></a></figure>
+<figure class="gallery__item"><a href="https://finn-chapman.github.io/media/posts/16/gallery/scan-18.png" data-size="3528x2241"><img loading="lazy" src="https://finn-chapman.github.io/media/posts/16/gallery/scan-18-thumbnail.png" alt="" width="768" height="488"></a></figure>
+</div></div>
 <div class="gallery-wrapper"><div class="gallery" data-is-empty="false" data-translation="Add images" data-columns="2">
 <figure class="gallery__item"><a href="https://finn-chapman.github.io/media/posts/16/gallery/EPSON052.JPG" data-size="5100x7020"><img loading="lazy" src="https://finn-chapman.github.io/media/posts/16/gallery/EPSON052-thumbnail.JPG" alt="" width="768" height="1057"></a></figure>
 <figure class="gallery__item"><a href="https://finn-chapman.github.io/media/posts/16/gallery/scan-21.png" data-size="4364x5510"><img loading="lazy" src="https://finn-chapman.github.io/media/posts/16/gallery/scan-21-thumbnail.png" alt="" width="768" height="970"></a></figure>
